@@ -1,4 +1,4 @@
-# Criei uma tela onde o clássico livro "Dom Casmurro", de Machado de Assis, ganha vida e cada capítulo pode ser ouvido, uma jornada única!
+# Criei uma tela onde o clássico livro "Dom Casmurro", de Machado de Assis, ganha vida!
 
 O coração desse projeto é o JavaScript, onde cada linha de código é uma peça para o funcionamento fluido.
 
